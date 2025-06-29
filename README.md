@@ -26,3 +26,8 @@ A fully functional and responsive food delivery web application built using the 
 | State Mgmt  | Context API                         |
 | Toast Msg   | react-toastify                      |
 
+
+
+![Screenshot (244)](https://github.com/user-attachments/assets/a06d051a-a0fc-4973-a6cb-fc17ac6ebe8b)
+
+
